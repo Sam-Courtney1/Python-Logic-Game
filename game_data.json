@@ -1,0 +1,18 @@
+  {
+      "Riddles": {
+          "What is full of holes but still holds water?": "sponge",
+          "What goes up but never goes down ?": "age",
+          "The more you take, the more you leave behind. What am I ?": "footsteps",
+          "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I ?": "map",
+          "What can’t talk but will reply when spoken to ?": "echo"
+      },
+      "Secret_words": [
+          "Apple",
+          "Smile",
+          "Tiger",
+          "Water",
+          "Queen",
+          "Eagle",
+          "House"
+      ]
+}
